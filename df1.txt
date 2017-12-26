@@ -1,0 +1,98 @@
+Filesystem              1K-blocks    Used Available Use% Mounted on
+/dev/mapper/centos-root   6486016 1426328   5059688  22% /
+devtmpfs                   497236       0    497236   0% /dev
+tmpfs                      508116       0    508116   0% /dev/shm
+tmpfs                      508116    6704    501412   2% /run
+tmpfs                      508116       0    508116   0% /sys/fs/cgroup
+/dev/sda1                 1038336  155936    882400  16% /boot
+tmpfs                      101624       0    101624   0% /run/user/0
+Filesystem               Size  Used Avail Use% Mounted on
+/dev/mapper/centos-root  6.2G  1.4G  4.9G  22% /
+devtmpfs                 486M     0  486M   0% /dev
+tmpfs                    497M     0  497M   0% /dev/shm
+tmpfs                    497M  6.6M  490M   2% /run
+tmpfs                    497M     0  497M   0% /sys/fs/cgroup
+/dev/sda1               1014M  153M  862M  16% /boot
+tmpfs                    100M     0  100M   0% /run/user/0
+Filesystem              1K-blocks    Used Available Use% Mounted on
+rootfs                          -       -         -    - /
+sysfs                           0       0         0    - /sys
+proc                            0       0         0    - /proc
+devtmpfs                   497236       0    497236   0% /dev
+securityfs                      0       0         0    - /sys/kernel/security
+tmpfs                      508116       0    508116   0% /dev/shm
+devpts                          0       0         0    - /dev/pts
+tmpfs                      508116    6704    501412   2% /run
+tmpfs                      508116       0    508116   0% /sys/fs/cgroup
+cgroup                          0       0         0    - /sys/fs/cgroup/systemd
+pstore                          0       0         0    - /sys/fs/pstore
+cgroup                          0       0         0    - /sys/fs/cgroup/cpuset
+cgroup                          0       0         0    - /sys/fs/cgroup/memory
+cgroup                          0       0         0    - /sys/fs/cgroup/blkio
+cgroup                          0       0         0    - /sys/fs/cgroup/net_cls,net_prio
+cgroup                          0       0         0    - /sys/fs/cgroup/perf_event
+cgroup                          0       0         0    - /sys/fs/cgroup/freezer
+cgroup                          0       0         0    - /sys/fs/cgroup/cpu,cpuacct
+cgroup                          0       0         0    - /sys/fs/cgroup/pids
+cgroup                          0       0         0    - /sys/fs/cgroup/hugetlb
+cgroup                          0       0         0    - /sys/fs/cgroup/devices
+configfs                        0       0         0    - /sys/kernel/config
+/dev/mapper/centos-root   6486016 1426332   5059684  22% /
+selinuxfs                       0       0         0    - /sys/fs/selinux
+systemd-1                       -       -         -    - /proc/sys/fs/binfmt_misc
+mqueue                          0       0         0    - /dev/mqueue
+debugfs                         0       0         0    - /sys/kernel/debug
+hugetlbfs                       0       0         0    - /dev/hugepages
+/dev/sda1                 1038336  155936    882400  16% /boot
+tmpfs                      101624       0    101624   0% /run/user/0
+binfmt_misc                     0       0         0    - /proc/sys/fs/binfmt_misc
+Filesystem              Type  Size  Used Avail Use% Mounted on
+/dev/mapper/centos-root xfs   6.2G  1.4G  4.9G  22% /
+Filesystem              1K-blocks    Used Available Use% Mounted on
+/dev/mapper/centos-root   6486016 1426332   5059684  22% /
+devtmpfs                   497236       0    497236   0% /dev
+tmpfs                      508116       0    508116   0% /dev/shm
+tmpfs                      508116    6708    501408   2% /run
+tmpfs                      508116       0    508116   0% /sys/fs/cgroup
+/dev/sda1                 1038336  155936    882400  16% /boot
+tmpfs                      101624       0    101624   0% /run/user/0
+Filesystem              1M-blocks  Used Available Use% Mounted on
+/dev/mapper/centos-root      6334  1393      4942  22% /
+devtmpfs                      486     0       486   0% /dev
+tmpfs                         497     0       497   0% /dev/shm
+tmpfs                         497     7       490   2% /run
+tmpfs                         497     0       497   0% /sys/fs/cgroup
+/dev/sda1                    1014   153       862  16% /boot
+tmpfs                         100     0       100   0% /run/user/0
+Filesystem               Size  Used Avail Use% Mounted on
+/dev/mapper/centos-root  6.2G  1.4G  4.9G  22% /
+devtmpfs                 486M     0  486M   0% /dev
+tmpfs                    497M     0  497M   0% /dev/shm
+tmpfs                    497M  6.6M  490M   2% /run
+tmpfs                    497M     0  497M   0% /sys/fs/cgroup
+/dev/sda1               1014M  153M  862M  16% /boot
+tmpfs                    100M     0  100M   0% /run/user/0
+Filesystem               Inodes IUsed   IFree IUse% Mounted on
+/dev/mapper/centos-root 3248128 35205 3212923    2% /
+devtmpfs                 124309   346  123963    1% /dev
+tmpfs                    127029     1  127028    1% /dev/shm
+tmpfs                    127029   405  126624    1% /run
+tmpfs                    127029    16  127013    1% /sys/fs/cgroup
+/dev/sda1                524288   333  523955    1% /boot
+tmpfs                    127029     1  127028    1% /run/user/0
+Filesystem              Type     1K-blocks    Used Available Use% Mounted on
+/dev/mapper/centos-root xfs        6486016 1426336   5059680  22% /
+devtmpfs                devtmpfs    497236       0    497236   0% /dev
+tmpfs                   tmpfs       508116       0    508116   0% /dev/shm
+tmpfs                   tmpfs       508116    6708    501408   2% /run
+tmpfs                   tmpfs       508116       0    508116   0% /sys/fs/cgroup
+/dev/sda1               xfs        1038336  155936    882400  16% /boot
+tmpfs                   tmpfs       101624       0    101624   0% /run/user/0
+Filesystem              1K-blocks    Used Available Use% Mounted on
+/dev/mapper/centos-root   6486016 1426336   5059680  22% /
+devtmpfs                   497236       0    497236   0% /dev
+tmpfs                      508116       0    508116   0% /dev/shm
+tmpfs                      508116    6708    501408   2% /run
+tmpfs                      508116       0    508116   0% /sys/fs/cgroup
+/dev/sda1                 1038336  155936    882400  16% /boot
+tmpfs                      101624       0    101624   0% /run/user/0
